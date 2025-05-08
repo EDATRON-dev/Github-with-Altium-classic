@@ -1,4 +1,4 @@
-# EDATRON Solutions Demo Project
+# Using Altium designer in Combination with GitHub
 
 This is a **demo project** provided by **EDATRON Solutions GmbH** to demonstrate the use of **GitHub** in combination with **Altium Designer**.
 
@@ -10,7 +10,7 @@ The purpose of this project is to showcase how GitHub can be effectively integra
 - Collaboration across teams
 - History tracking and change management
 
-## About EDATRON Solutions
+## About EDATRON Solutions GmbH
 
 EDATRON Solutions GmbH specializes in practical training and consulting services for Altium Designer and Altium 365. We help professionals and companies improve their electronic design workflows through customized training and real-world expertise.
 
