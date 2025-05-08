@@ -1,6 +1,6 @@
-# Using Altium designer in Combination with GitHub
+# Using Altium Designer in Combination with GitHub
 
-This is a **demo project** provided by **EDATRON Solutions GmbH** to demonstrate the use of **GitHub** in combination with **Altium Designer**.
+This is a **Demo Project** provided by **EDATRON Solutions GmbH** to demonstrate the use of **GitHub** in combination with **Altium Designer**.
 
 ## Purpose
 
